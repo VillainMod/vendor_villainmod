@@ -1,0 +1,9 @@
+#add_lunch_combo villain_crespo-userdebug
+#add_lunch_combo villain_crespo4g-userdebug
+add_lunch_combo villain_grouper-userdebug
+#add_lunch_combo villain_i9300-userdebug
+add_lunch_combo villain_maguro-userdebug
+#add_lunch_combo villain_stingray-userdebug
+add_lunch_combo villain_toro-userdebug
+add_lunch_combo villain_toroplus-userdebug
+#add_lunch_combo villain_wingray-userdebug
