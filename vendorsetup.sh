@@ -6,4 +6,5 @@ add_lunch_combo villain_maguro-userdebug
 #add_lunch_combo villain_stingray-userdebug
 add_lunch_combo villain_toro-userdebug
 add_lunch_combo villain_toroplus-userdebug
+#add_lunch_combo villain_n7000-userdebug
 #add_lunch_combo villain_wingray-userdebug
